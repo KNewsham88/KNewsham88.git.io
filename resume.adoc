@@ -19,36 +19,41 @@ Driven self-starter seeking opportunity with a progressive sustainability/renewa
 
 *PROFESSIONAL EXPERIENCE*
 
-*Summary*
+Nuclear Shift Test Engineer, Department of Defense, Norfolk Naval Shipyard, 09/2014 - Present +
+Assistant Shift Test Engineer, Department of Defense, Norfolk Naval Shipyard, 02/2012 - 09/2014
 
-Nuclear Shift Test Engineer, Norfolk Naval Shipyard, 09/2014 to Present +
-Assistant Shift Test Engineer, Norfolk Naval Shipyard, 02/2012 to 09/2014
-
-* As Shift Test Engineer, I am responsible for the safety of a nuclear reactor plant. 
-* I have the technical expertise required to balance the requirements of reactor safety, the authorization of reactor plant work, and the testing subsequent to work completion. 
-* I am a leader who plans, coordinates, and supervises testing and major plant condition changes performed in the reactor plant.
+.*Summary*
+* A Shift Test Engineer is:
+** *an authority*, qualified by the Naval Sea Systems Command (NAVSEA), responsible for the safety of a nuclear reactor plant.
+** *a technical expert* required to balance the requirements of reactor safety, the authorization of reactor plant work, and the testing subsequent to work completion.
+** *a leader* who plans, coordinates, and supervises testing and major plant condition changes performed in the reactor plant.
 
 .*Engineering Experience*
-* Develop, review, and execute procedures for establishing safe conditions for maintenance work.
-* Authorize maintenance after verifying proper isolation and safe conditions have been established.
+* Maintain detailed, working knowledge of the status of hundreds of valves, pumps, heat exchangers, breakers, and other major components of 22 mechanical and electrical systems.
+* Develop procedures and isolations for establishing safe conditions for mechanical and electrical work.
+* Prepare radiological control documents for test procedures.
 * Concur on non-nuclear maintenance items affecting reactor plant operations.
 * Track and control simultaneous tests, operations, and work release.
-* Analyze test data to ensure satisfactory performance of retests.
-
+* Analyze and validate test data to ensure satisfactory performance of retests.
+ 
 .*Supervision Experience*
-* Supervise watch team to ensure safe maintenance of plant conditions during overhaul.
-* Lead, coordinate, and direct reactor plant operations and test procedures.
+* Supervise watch team of 10 personnel to ensure safe maintenance of plant conditions during overhaul.
+* Lead, coordinate, and direct reactor plant operations and test procedures involving 10-20 personnel.
 * Responsible for the progress and safety of the nuclear test program during assigned shift.
+* Authorize maintenance work to be performed after verifying safe conditions have been established.
+* Review work packages and proposed isolations for nuclear work.
+* Delegate appropriate tasks to 3 assistant shift test engineers and track completion of assigned duties.
 
 .*Communications Experience*
-* Brief senior-level personnel on problems encountered during testing and proposed corrective actions.
-* Train and prepare Ship’s Force and Shipyard personnel to execute reactor plant tests, major plant condition changes, and maintenance. 
-* Coordinate with Ship’s Force, Radiological Controls, and Production personnel to plan and execute reactor plant evolutions.
-* Maintain detailed log of tests and operations to provide a lasting record of the test program.
+* Brief senior-level personnel on problems encountered and proposed corrective actions.
+* Train and prepare a crew of over 40 Ship’s Force personnel to execute test procedures and maintenance.
+* Give daily briefs to the watch team and senior project personnel on plan for testing and maintenance.
+- Coordinate with Ship’s Force, Radiological Controls, and Production personnel to plan and execute tests.
+- Maintain detailed log of tests and operations to provide a lasting record of the test program.
 
 *EDUCATION*
 
-B.S. Chemical Engineering +
+B.S. Chemical Engineering, Environmental Emphasis +
 University of Missouri +
 Magna cum Laude
 
@@ -56,10 +61,25 @@ Magna cum Laude
 
 *Society of Women Engineers*::
 * Hampton Roads Section Secretary, 2012 +
-* Hampton Roads Section Member, 2011 to Present
+* Hampton Roads Section Member, 2011 - Present
 
 Fundamentals of Engineering Exam, 2010 +
 Graduate Record Examination
+
+*INTERNSHIPS*
+
+.*Pollution Prevention Intern, Missouri Water Resources Research Center, 2010*
+- Performed energy audits of 3 water treatment plants in Missouri. 
+- Collected and analyzed data for energy consumption baseline in areas such as lighting, pump efficiencies, HVAC, air compressors, and water meters. 
+- Calculated over $60,000 in annual energy savings with payback periods of less than 5 years, equating to over 10% of annual energy costs. 
+- Worked closely with water plant operators to determine feasibility of energy saving opportunities.
+- Presented results to the president of the University of Missouri and to officials from 3 cities. 
+- Wrote detailed quality assurance plan following EPA format and final technical report with results.
+
+.*Biological Science Aid, USDA-Agricultural Research Service, 2008 - 2010
+- Operated standard lab equipment and implemented lab safety procedures.
+- Conducted independent projects and assisted with team projects, including field work.
+- Prepared over 1000 water samples and quality assurance samples for herbicide and nutrient analysis. 
 
 *SKILLS and ATTRIBUTES*::
 * Integrity
@@ -68,3 +88,5 @@ Graduate Record Examination
 * Leadership
 * Detail-Oriented
 * Self-Motivated
+
+
